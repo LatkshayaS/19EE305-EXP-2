@@ -46,17 +46,17 @@ Sl .no	Apparatus	Range	Type	Quantity
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-## TABULATION FOR OPEN CIRCUIT TEST:
-
-## TABULATION FOR LOAD TEST:
-
 ## MODEL GRAPH:
 
-## CALCULATION: 
+![](ex2_graph.jpeg)
 
 ## OPEN CIRCUIT CHARACTERISTICS:
 
+![](open.jpeg)
+
 ## LOAD CHARACTERISTICS:
+
+![](load.jpeg)
  
 # RESULT:
 The load test on separately excited generators and to obtain the characteristics was verified.
